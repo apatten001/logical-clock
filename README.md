@@ -1,3 +1,5 @@
+## Instructions for running the program
+
 1. `git clone https://github.com/apatten001/logical-clock`
 2. `python -m venv env`
 3. `source env/bin/activate`
